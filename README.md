@@ -17,7 +17,6 @@ Tracking my daily progress from Day 1 to Day 365.
 ### Day 2
 - Practiced JavaScript
 
----
-
+emon er biar pore sokal e work
 ## 🎯 Goal
 Stay consistent and improve coding skills daily.
