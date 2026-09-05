@@ -7,6 +7,7 @@ Tracking my daily progress from Day 1 to Day 365.
 - Day 1 ✅
 - Day 2 ❌
 - Day 3 ⏳
+- Day 4
 
 ## 📝 Daily Logs
 
